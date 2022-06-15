@@ -9,7 +9,7 @@
    background-color: #222222;
  }
  .banner{
-     background-image: url(/img/banner2.gif);
+     background-image: url(banner2.gif);
      background-size:cover;
      align-items: center;
      background-repeat: no-repeat;
@@ -110,7 +110,7 @@ a{
   align-items: center;
 }
 .perfis{
-  background-image: url(/img/artista.jpg);
+  background-image: url(artista.jpg);
   background-size: 100%; 
   width: 30rem;
   height: 30rem;
